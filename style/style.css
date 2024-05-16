@@ -1,0 +1,10 @@
+.form{ background-color: green;
+padding-left: 50px;
+width: 380px;
+}
+.in1{ margin-left: 15px;}
+.in2{ margin-left: 15px;}
+.in3{ margin-left: 60px;}
+.in4{ margin-left: 40px;}
+input{ margin-top: 15px;}
+body{font-weight: bolder;}
