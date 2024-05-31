@@ -1,6 +1,9 @@
-.form{ background-color: green;
+body{background-color: #3e882c;}
+.form{ background-color: rgb(3, 66, 3);
 padding-left: 50px;
 width: 380px;
+margin-left: 260px;
+color: aliceblue;
 }
 .in1{ margin-left: 15px;}
 .in2{ margin-left: 15px;}
@@ -8,3 +11,4 @@ width: 380px;
 .in4{ margin-left: 40px;}
 input{ margin-top: 15px;}
 body{font-weight: bolder;}
+.in6{ border-style: 20px;}
